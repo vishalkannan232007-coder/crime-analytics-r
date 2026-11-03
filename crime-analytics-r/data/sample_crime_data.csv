@@ -1,0 +1,164 @@
+Crime_ID,Date,Year,Month,Time,City,Area,Crime_Type,Crime_Category,Victim_Age,Victim_Gender,Weapon,Status,Latitude,Longitude
+CRM-2023-1001,2023-01-15,2023,January,02:30,Metropolis,Downtown,Burglary,Property Crime,34,Male,Crowbar,Solved,40.7128,-74.0060
+CRM-2023-1002,2023-01-16,2023,January,14:15,Metropolis,Northside,Robbery,Violent Crime,29,Female,Knife,Under Investigation,40.7589,-73.9851
+CRM-2023-1003,2023-01-18,2023,January,22:45,Metropolis,East District,Vehicle Theft,Property Crime,45,Male,None,Unsolved,40.7282,-73.9942
+CRM-2023-1004,2023-01-20,2023,January,09:10,Gotham,South Suburb,Assault,Violent Crime,17,Male,Blunt Object,Solved,40.6782,-73.9442
+CRM-2023-1005,2023-01-22,2023,January,18:00,Gotham,West End,Fraud,Financial Crime,62,Female,None,Closed,40.7831,-73.9712
+CRM-2023-1006,2023-02-01,2023,February,11:30,Gotham,Downtown,Cybercrime,Financial Crime,24,Male,None,Under Investigation,40.7145,-74.0080
+CRM-2023-1007,2023-02-05,2023,February,23:15,Metropolis,Central Park,Robbery,Violent Crime,51,Female,Firearm,Unsolved,40.7829,-73.9654
+CRM-2023-1008,2023-02-12,2023,February,15:40,Star City,East District,Vandalism,Property Crime,16,Non-Binary,Spray Paint,Solved,40.7300,-73.9900
+CRM-2023-1009,2023-02-18,2023,February,03:20,Star City,Harbor View,Narcotics,Drug Offense,38,Male,None,Closed,40.7000,-74.0100
+CRM-2023-1010,2023-02-24,2023,February,20:00,Metropolis,Northside,Assault,Violent Crime,22,Female,Blunt Object,Solved,40.7600,-73.9800
+CRM-2023-1011,2023-03-02,2023,March,13:10,Gotham,South Suburb,Shoplifting,Property Crime,28,Male,None,Solved,40.6800,-73.9400
+CRM-2023-1012,2023-03-07,2023,March,19:50,Star City,West End,Domestic Violence,Violent Crime,39,Female,None,Solved,40.7800,-73.9700
+CRM-2023-1013,2023-03-14,2023,March,08:30,Metropolis,Downtown,Identity Theft,Financial Crime,70,Male,None,Under Investigation,40.7130,-74.0050
+CRM-2023-1014,2023-03-19,2023,March,16:45,Gotham,East District,Vehicle Theft,Property Crime,31,Female,None,Unsolved,40.7290,-73.9930
+CRM-2023-1015,2023-03-25,2023,March,21:10,Star City,Central Park,Homicide,Violent Crime,42,Male,Firearm,Under Investigation,40.7810,-73.9630
+CRM-2023-1016,2023-04-01,2023,April,01:15,Metropolis,Northside,Burglary,Property Crime,26,Male,Crowbar,Closed,40.7620,-73.9820
+CRM-2023-1017,2023-04-06,2023,April,12:00,Gotham,Harbor View,Smuggling,Drug Offense,48,Male,None,Solved,40.7020,-74.0120
+CRM-2023-1018,2023-04-11,2023,April,17:30,Metropolis,West End,Robbery,Violent Crime,19,Female,Knife,Solved,40.7840,-73.9720
+CRM-2023-1019,2023-04-18,2023,April,23:55,Star City,South Suburb,Vandalism,Property Crime,15,Male,Spray Paint,Solved,40.6820,-73.9420
+CRM-2023-1020,2023-04-24,2023,April,10:20,Gotham,Downtown,Embezzlement,Financial Crime,54,Female,None,Under Investigation,40.7150,-74.0070
+CRM-2023-1021,2023-05-03,2023,May,14:00,Metropolis,East District,Assault,Violent Crime,33,Male,Blunt Object,Solved,40.7270,-73.9950
+CRM-2023-1022,2023-05-09,2023,May,20:45,Star City,Northside,Vehicle Theft,Property Crime,27,Female,None,Unsolved,40.7590,-73.9840
+CRM-2023-1023,2023-05-15,2023,May,04:10,Gotham,Central Park,Narcotics,Drug Offense,30,Male,None,Solved,40.7835,-73.9660
+CRM-2023-1024,2023-05-21,2023,May,11:50,Metropolis,South Suburb,Shoplifting,Property Crime,21,Female,None,Closed,40.6790,-73.9430
+CRM-2023-1025,2023-05-28,2023,May,18:30,Star City,West End,Fraud,Financial Crime,65,Male,None,Under Investigation,40.7820,-73.9730
+CRM-2023-1026,2023-06-02,2023,June,22:15,Gotham,Downtown,Robbery,Violent Crime,36,Female,Knife,Solved,40.7135,-74.0065
+CRM-2023-1027,2023-06-08,2023,June,09:40,Metropolis,Harbor View,Burglary,Property Crime,44,Male,Crowbar,Unsolved,40.7010,-74.0110
+CRM-2023-1028,2023-06-14,2023,June,15:20,Star City,East District,Cybercrime,Financial Crime,23,Female,None,Solved,40.7285,-73.9935
+CRM-2023-1029,2023-06-20,2023,June,21:00,Gotham,Northside,Assault,Violent Crime,50,Male,Firearm,Under Investigation,40.7610,-73.9810
+CRM-2023-1030,2023-06-26,2023,June,13:30,Metropolis,West End,Vehicle Theft,Property Crime,37,Female,None,Closed,40.7850,-73.9700
+CRM-2023-1031,2023-07-04,2023,July,23:30,Gotham,Downtown,Arson,Property Crime,28,Male,Explosive/Flammable,Under Investigation,40.7120,-74.0075
+CRM-2023-1032,2023-07-10,2023,July,17:15,Star City,South Suburb,Domestic Violence,Violent Crime,32,Female,None,Solved,40.6775,-73.9450
+CRM-2023-1033,2023-07-16,2023,July,07:45,Metropolis,Central Park,Robbery,Violent Crime,58,Male,Knife,Unsolved,40.7825,-73.9645
+CRM-2023-1034,2023-07-22,2023,July,12:20,Gotham,East District,Shoplifting,Property Crime,19,Female,None,Solved,40.7295,-73.9925
+CRM-2023-1035,2023-07-28,2023,July,20:10,Star City,Harbor View,Narcotics,Drug Offense,41,Male,None,Closed,40.6995,-74.0095
+CRM-2023-1036,2023-08-02,2023,August,03:50,Metropolis,Northside,Burglary,Property Crime,35,Female,Crowbar,Solved,40.7615,-73.9825
+CRM-2023-1037,2023-08-08,2023,August,16:00,Gotham,West End,Fraud,Financial Crime,67,Male,None,Under Investigation,40.7830,-73.9725
+CRM-2023-1038,2023-08-14,2023,August,22:30,Star City,Downtown,Assault,Violent Crime,25,Male,Blunt Object,Solved,40.7140,-74.0055
+CRM-2023-1039,2023-08-20,2023,August,11:10,Metropolis,South Suburb,Vehicle Theft,Property Crime,40,Female,None,Unsolved,40.6785,-73.9435
+CRM-2023-1040,2023-08-26,2023,August,19:40,Gotham,East District,Vandalism,Property Crime,18,Male,Spray Paint,Solved,40.7275,-73.9945
+CRM-2023-1041,2023-09-01,2023,September,14:25,Star City,Central Park,Robbery,Violent Crime,46,Female,Firearm,Under Investigation,40.7815,-73.9655
+CRM-2023-1042,2023-09-07,2023,September,21:15,Metropolis,Harbor View,Identity Theft,Financial Crime,53,Male,None,Solved,40.7015,-74.0115
+CRM-2023-1043,2023-09-13,2023,September,08:00,Gotham,Northside,Shoplifting,Property Crime,22,Female,None,Closed,40.7595,-73.9835
+CRM-2023-1044,2023-09-19,2023,September,18:50,Star City,West End,Burglary,Property Crime,33,Male,Crowbar,Solved,40.7845,-73.9715
+CRM-2023-1045,2023-09-25,2023,September,00:30,Metropolis,Downtown,Assault,Violent Crime,29,Female,Knife,Unsolved,40.7132,-74.0062
+CRM-2023-1046,2023-10-02,2023,October,10:15,Gotham,South Suburb,Vehicle Theft,Property Crime,38,Male,None,Solved,40.6795,-73.9425
+CRM-2023-1047,2023-10-08,2023,October,15:45,Star City,East District,Cybercrime,Financial Crime,27,Female,None,Under Investigation,40.7288,-73.9932
+CRM-2023-1048,2023-10-14,2023,October,23:10,Metropolis,Central Park,Robbery,Violent Crime,61,Male,Blunt Object,Closed,40.7822,-73.9652
+CRM-2023-1049,2023-10-20,2023,October,12:35,Gotham,Harbor View,Narcotics,Drug Offense,34,Female,None,Solved,40.7008,-74.0108
+CRM-2023-1050,2023-10-26,2023,October,19:20,Star City,Northside,Homicide,Violent Crime,49,Male,Firearm,Under Investigation,40.7605,-73.9815
+CRM-2024-2001,2024-01-05,2024,January,01:45,Metropolis,Downtown,Burglary,Property Crime,31,Male,Crowbar,Solved,40.7125,-74.0058
+CRM-2024-2002,2024-01-11,2024,January,13:20,Gotham,West End,Fraud,Financial Crime,59,Female,None,Solved,40.7832,-73.9718
+CRM-2024-2003,2024-01-17,2024,January,20:00,Star City,East District,Assault,Violent Crime,26,Male,Knife,Under Investigation,40.7281,-73.9948
+CRM-2024-2004,2024-01-23,2024,January,09:15,Metropolis,South Suburb,Vehicle Theft,Property Crime,43,Female,None,Unsolved,40.6789,-73.9438
+CRM-2024-2005,2024-01-29,2024,January,16:50,Gotham,Central Park,Robbery,Violent Crime,20,Male,Blunt Object,Closed,40.7828,-73.9658
+CRM-2024-2006,2024-02-04,2024,February,22:10,Star City,Harbor View,Shoplifting,Property Crime,22,Female,None,Solved,40.7005,-74.0105
+CRM-2024-2007,2024-02-10,2024,February,11:00,Metropolis,Northside,Vandalism,Property Crime,17,Male,Spray Paint,Solved,40.7602,-73.9808
+CRM-2024-2008,2024-02-16,2024,February,17:40,Gotham,Downtown,Cybercrime,Financial Crime,35,Female,None,Under Investigation,40.7148,-74.0072
+CRM-2024-2009,2024-02-22,2024,February,03:15,Star City,West End,Robbery,Violent Crime,47,Male,Firearm,Unsolved,40.7838,-73.9728
+CRM-2024-2010,2024-02-28,2024,February,14:30,Metropolis,East District,Domestic Violence,Violent Crime,38,Female,None,Solved,40.7278,-73.9952
+CRM-2024-2011,2024-03-05,2024,March,19:10,Gotham,South Suburb,Narcotics,Drug Offense,29,Male,None,Closed,40.6792,-73.9428
+CRM-2024-2012,2024-03-11,2024,March,08:45,Star City,Central Park,Burglary,Property Crime,52,Female,Crowbar,Solved,40.7818,-73.9648
+CRM-2024-2013,2024-03-17,2024,March,23:00,Metropolis,Harbor View,Assault,Violent Crime,24,Male,Blunt Object,Under Investigation,40.7012,-74.0112
+CRM-2024-2014,2024-03-23,2024,March,12:15,Gotham,Northside,Identity Theft,Financial Crime,64,Female,None,Solved,40.7598,-73.9832
+CRM-2024-2015,2024-03-29,2024,March,18:25,Star City,Downtown,Vehicle Theft,Property Crime,30,Male,None,Unsolved,40.7138,-74.0058
+CRM-2024-2016,2024-04-03,2024,April,02:10,Metropolis,West End,Robbery,Violent Crime,41,Female,Knife,Solved,40.7842,-73.9712
+CRM-2024-2017,2024-04-09,2024,April,15:30,Gotham,East District,Embezzlement,Financial Crime,56,Male,None,Closed,40.7289,-73.9939
+CRM-2024-2018,2024-04-15,2024,April,21:45,Star City,South Suburb,Vandalism,Property Crime,16,Female,Spray Paint,Solved,40.6781,-73.9441
+CRM-2024-2019,2024-04-21,2024,April,10:00,Metropolis,Central Park,Homicide,Violent Crime,36,Male,Firearm,Under Investigation,40.7821,-73.9659
+CRM-2024-2020,2024-04-27,2024,April,16:20,Gotham,Harbor View,Smuggling,Drug Offense,45,Male,None,Solved,40.7002,-74.0102
+CRM-2024-2021,2024-05-02,2024,May,20:50,Star City,Northside,Burglary,Property Crime,28,Female,Crowbar,Solved,40.7608,-73.9818
+CRM-2024-2022,2024-05-08,2024,May,07:30,Metropolis,Downtown,Shoplifting,Property Crime,19,Male,None,Closed,40.7131,-74.0061
+CRM-2024-2023,2024-05-14,2024,May,14:15,Gotham,West End,Fraud,Financial Crime,60,Female,None,Solved,40.7834,-73.9714
+CRM-2024-2024,2024-05-20,2024,May,22:00,Star City,East District,Assault,Violent Crime,33,Male,Blunt Object,Under Investigation,40.7283,-73.9943
+CRM-2024-2025,2024-05-26,2024,May,11:40,Metropolis,South Suburb,Vehicle Theft,Property Crime,42,Female,None,Unsolved,40.6786,-73.9432
+CRM-2024-2026,2024-06-01,2024,June,17:15,Gotham,Central Park,Robbery,Violent Crime,27,Male,Knife,Solved,40.7826,-73.9651
+CRM-2024-2027,2024-06-07,2024,June,23:45,Star City,Harbor View,Narcotics,Drug Offense,39,Female,None,Closed,40.7006,-74.0106
+CRM-2024-2028,2024-06-13,2024,June,09:10,Metropolis,Northside,Cybercrime,Financial Crime,25,Male,None,Solved,40.7604,-73.9812
+CRM-2024-2029,2024-06-19,2024,June,15:55,Gotham,Downtown,Domestic Violence,Violent Crime,37,Female,None,Under Investigation,40.7142,-74.0068
+CRM-2024-2030,2024-06-25,2024,June,21:30,Star City,West End,Arson,Property Crime,44,Male,Explosive/Flammable,Unsolved,40.7848,-73.9708
+CRM-2024-2031,2024-07-01,2024,July,13:00,Metropolis,East District,Burglary,Property Crime,30,Female,Crowbar,Solved,40.7276,-73.9946
+CRM-2024-2032,2024-07-07,2024,July,19:40,Gotham,South Suburb,Assault,Violent Crime,21,Male,Blunt Object,Closed,40.6794,-73.9424
+CRM-2024-2033,2024-07-13,2024,July,08:20,Star City,Central Park,Robbery,Violent Crime,55,Female,Firearm,Solved,40.7814,-73.9662
+CRM-2024-2034,2024-07-19,2024,July,14:50,Metropolis,Harbor View,Identity Theft,Financial Crime,68,Male,None,Under Investigation,40.7014,-74.0114
+CRM-2024-2035,2024-07-25,2024,July,22:15,Gotham,Northside,Vehicle Theft,Property Crime,32,Female,None,Unsolved,40.7592,-73.9828
+CRM-2024-2036,2024-08-01,2024,August,04:10,Star City,Downtown,Shoplifting,Property Crime,18,Male,None,Solved,40.7136,-74.0064
+CRM-2024-2037,2024-08-07,2024,August,11:30,Metropolis,West End,Vandalism,Property Crime,23,Female,Spray Paint,Closed,40.7836,-73.9722
+CRM-2024-2038,2024-08-13,2024,August,18:00,Gotham,East District,Assault,Violent Crime,49,Male,Knife,Solved,40.7287,-73.9937
+CRM-2024-2039,2024-08-19,2024,August,23:20,Star City,South Suburb,Robbery,Violent Crime,26,Female,Blunt Object,Under Investigation,40.6784,-73.9444
+CRM-2024-2040,2024-08-25,2024,August,10:45,Metropolis,Central Park,Narcotics,Drug Offense,31,Male,None,Unsolved,40.7824,-73.9644
+CRM-2024-2041,2024-09-02,2024,September,16:10,Gotham,Harbor View,Fraud,Financial Crime,63,Female,None,Solved,40.7004,-74.0104
+CRM-2024-2042,2024-09-08,2024,September,21:50,Star City,Northside,Burglary,Property Crime,34,Male,Crowbar,Closed,40.7606,-73.9816
+CRM-2024-2043,2024-09-14,2024,September,07:15,Metropolis,Downtown,Domestic Violence,Violent Crime,40,Female,None,Solved,40.7128,-74.0060
+CRM-2024-2044,2024-09-20,2024,September,12:40,Gotham,West End,Cybercrime,Financial Crime,28,Male,None,Under Investigation,40.7839,-73.9719
+CRM-2024-2045,2024-09-26,2024,September,19:00,Star City,East District,Vehicle Theft,Property Crime,36,Female,None,Unsolved,40.7284,-73.9944
+CRM-2024-2046,2024-10-01,2024,October,00:45,Metropolis,South Suburb,Assault,Violent Crime,22,Male,Firearm,Solved,40.6787,-73.9437
+CRM-2024-2047,2024-10-07,2024,October,15:10,Gotham,Central Park,Shoplifting,Property Crime,17,Female,None,Closed,40.7827,-73.9657
+CRM-2024-2048,2024-10-13,2024,October,20:30,Star City,Harbor View,Robbery,Violent Crime,51,Male,Knife,Solved,40.7011,-74.0111
+CRM-2024-2049,2024-10-19,2024,October,11:15,Metropolis,Northside,Identity Theft,Financial Crime,57,Female,None,Under Investigation,40.7597,-73.9837
+CRM-2024-2050,2024-10-25,2024,October,17:40,Gotham,Downtown,Homicide,Violent Crime,43,Male,Firearm,Unsolved,40.7144,-74.0074
+CRM-2025-3001,2025-01-04,2025,January,09:30,Metropolis,Downtown,Burglary,Property Crime,32,Female,Crowbar,Solved,40.7129,-74.0059
+CRM-2025-3002,2025-01-10,2025,January,18:15,Gotham,West End,Assault,Violent Crime,27,Male,Blunt Object,Under Investigation,40.7833,-73.9713
+CRM-2025-3003,2025-01-16,2025,January,22:50,Star City,East District,Vehicle Theft,Property Crime,41,Female,None,Unsolved,40.7286,-73.9936
+CRM-2025-3004,2025-01-22,2025,January,14:10,Metropolis,South Suburb,Fraud,Financial Crime,66,Male,None,Solved,40.6788,-73.9431
+CRM-2025-3005,2025-01-28,2025,January,03:00,Gotham,Central Park,Narcotics,Drug Offense,23,Female,None,Closed,40.7823,-73.9653
+CRM-2025-3006,2025-02-03,2025,February,12:45,Star City,Harbor View,Robbery,Violent Crime,35,Male,Knife,Solved,40.7007,-74.0107
+CRM-2025-3007,2025-02-09,2025,February,17:20,Metropolis,Northside,Vandalism,Property Crime,19,Female,Spray Paint,Solved,40.7601,-73.9811
+CRM-2025-3008,2025-02-15,2025,February,21:00,Gotham,Downtown,Cybercrime,Financial Crime,30,Male,None,Under Investigation,40.7146,-74.0066
+CRM-2025-3009,2025-02-21,2025,February,08:30,Star City,West End,Domestic Violence,Violent Crime,46,Female,None,Unsolved,40.7841,-73.9721
+CRM-2025-3010,2025-02-27,2025,February,15:15,Metropolis,East District,Identity Theft,Financial Crime,59,Male,None,Closed,40.7279,-73.9949
+CRM-2025-3011,2025-03-04,2025,March,20:40,Gotham,South Suburb,Shoplifting,Property Crime,20,Female,None,Solved,40.6791,-73.9429
+CRM-2025-3012,2025-03-10,2025,March,11:05,Star City,Central Park,Assault,Violent Crime,38,Male,Blunt Object,Solved,40.7819,-73.9649
+CRM-2025-3013,2025-03-16,2025,March,23:15,Metropolis,Harbor View,Burglary,Property Crime,29,Female,Crowbar,Under Investigation,40.7013,-74.0113
+CRM-2025-3014,2025-03-22,2025,March,16:30,Gotham,Northside,Robbery,Violent Crime,52,Male,Firearm,Unsolved,40.7599,-73.9839
+CRM-2025-3015,2025-03-28,2025,March,02:50,Star City,Downtown,Vehicle Theft,Property Crime,25,Female,None,Closed,40.7139,-74.0059
+CRM-2025-3016,2025-04-02,2025,April,10:20,Metropolis,West End,Fraud,Financial Crime,71,Male,None,Solved,40.7843,-73.9713
+CRM-2025-3017,2025-04-08,2025,April,19:10,Gotham,East District,Vandalism,Property Crime,18,Female,Spray Paint,Solved,40.7288,-73.9938
+CRM-2025-3018,2025-04-14,2025,April,13:45,Star City,South Suburb,Assault,Violent Crime,34,Male,Knife,Under Investigation,40.6783,-73.9443
+CRM-2025-3019,2025-04-20,2025,April,22:00,Metropolis,Central Park,Homicide,Violent Crime,48,Female,Firearm,Unsolved,40.7823,-73.9653
+CRM-2025-3020,2025-04-26,2025,April,07:35,Gotham,Harbor View,Narcotics,Drug Offense,31,Male,None,Closed,40.7003,-74.0103
+CRM-2025-3021,2025-05-01,2025,May,15:00,Star City,Northside,Shoplifting,Property Crime,22,Female,None,Solved,40.7607,-73.9817
+CRM-2025-3022,2025-05-07,2025,May,21:40,Metropolis,Downtown,Robbery,Violent Crime,37,Male,Blunt Object,Solved,40.7133,-74.0063
+CRM-2025-3023,2025-05-13,2025,May,11:25,Gotham,West End,Burglary,Property Crime,45,Female,Crowbar,Under Investigation,40.7835,-73.9715
+CRM-2025-3024,2025-05-19,2025,May,17:50,Star City,East District,Cybercrime,Financial Crime,26,Male,None,Unsolved,40.7282,-73.9942
+CRM-2025-3025,2025-05-25,2025,May,04:15,Metropolis,South Suburb,Vehicle Theft,Property Crime,39,Female,None,Closed,40.6785,-73.9435
+CRM-2025-3026,2025-06-02,2025,June,12:10,Gotham,Central Park,Domestic Violence,Violent Crime,40,Male,None,Solved,40.7829,-73.9659
+CRM-2025-3027,2025-06-08,2025,June,18:35,Star City,Harbor View,Assault,Violent Crime,28,Female,Knife,Solved,40.7009,-74.0109
+CRM-2025-3028,2025-06-14,2025,June,23:05,Metropolis,Northside,Robbery,Violent Crime,54,Male,Firearm,Under Investigation,40.7603,-73.9813
+CRM-2025-3029,2025-06-20,2025,June,09:40,Gotham,Downtown,Embezzlement,Financial Crime,61,Female,None,Unsolved,40.7143,-74.0067
+CRM-2025-3030,2025-06-26,2025,June,16:20,Star City,West End,Vandalism,Property Crime,17,Male,Spray Paint,Closed,40.6781,-73.9441
+CRM-2025-3031,2025-07-02,2025,July,21:15,Metropolis,East District,Burglary,Property Crime,33,Female,Crowbar,Solved,40.7277,-73.9947
+CRM-2025-3032,2025-07-08,2025,July,10:30,Gotham,South Suburb,Vehicle Theft,Property Crime,44,Male,None,Solved,40.6793,-73.9423
+CRM-2025-3033,2025-07-14,2025,July,15:55,Star City,Central Park,Narcotics,Drug Offense,27,Female,None,Under Investigation,40.7817,-73.9647
+CRM-2025-3034,2025-07-20,2025,July,20:40,Metropolis,Harbor View,Assault,Violent Crime,36,Male,Blunt Object,Unsolved,40.7017,-74.0117
+CRM-2025-3035,2025-07-26,2025,July,08:15,Gotham,Northside,Shoplifting,Property Crime,21,Female,None,Closed,40.7593,-73.9823
+CRM-2025-3036,2025-08-03,2025,August,14:20,Star City,Downtown,Robbery,Violent Crime,43,Male,Knife,Solved,40.7137,-74.0063
+CRM-2025-3037,2025-08-09,2025,August,19:50,Metropolis,West End,Fraud,Financial Crime,58,Female,None,Solved,40.7837,-73.9727
+CRM-2025-3038,2025-08-15,2025,August,01:30,Gotham,East District,Burglary,Property Crime,31,Male,Crowbar,Under Investigation,40.7285,-73.9935
+CRM-2025-3039,2025-08-21,2025,August,12:00,Star City,South Suburb,Identity Theft,Financial Crime,65,Female,None,Unsolved,40.6783,-73.9443
+CRM-2025-3040,2025-08-27,2025,August,17:45,Metropolis,Central Park,Assault,Violent Crime,25,Male,Firearm,Closed,40.7825,-73.9645
+CRM-2025-3041,2025-09-02,2025,September,22:10,Gotham,Harbor View,Smuggling,Drug Offense,42,Male,None,Solved,40.7005,-74.0105
+CRM-2025-3042,2025-09-08,2025,September,09:35,Star City,Northside,Vehicle Theft,Property Crime,37,Female,None,Solved,40.7605,-73.9815
+CRM-2025-3043,2025-09-14,2025,September,16:00,Metropolis,Downtown,Domestic Violence,Violent Crime,35,Male,None,Under Investigation,40.7127,-74.0057
+CRM-2025-3044,2025-09-20,2025,September,20:25,Gotham,West End,Arson,Property Crime,29,Female,Explosive/Flammable,Unsolved,40.7840,-73.9720
+CRM-2025-3045,2025-09-26,2025,September,11:50,Star City,East District,Cybercrime,Financial Crime,24,Male,None,Closed,40.7280,-73.9950
+CRM-2025-3046,2025-10-02,2025,October,18:15,Metropolis,South Suburb,Robbery,Violent Crime,50,Female,Blunt Object,Solved,40.6789,-73.9439
+CRM-2025-3047,2025-10-08,2025,October,23:40,Gotham,Central Park,Homicide,Violent Crime,39,Male,Knife,Under Investigation,40.7829,-73.9659
+CRM-2025-3048,2025-10-14,2025,October,10:05,Star City,Harbor View,Shoplifting,Property Crime,19,Female,None,Solved,40.7013,-74.0113
+CRM-2025-3049,2025-10-20,2025,October,15:30,Metropolis,Northside,Fraud,Financial Crime,62,Male,None,Unsolved,40.7599,-73.9839
+CRM-2025-3050,2025-10-26,2025,October,21:10,Gotham,Downtown,Assault,Violent Crime,33,Female,Knife,Closed,40.7145,-74.0075
+CRM-2025-3051,2025-11-02,2025,November,08:20,Star City,West End,Burglary,Property Crime,28,Male,Crowbar,Solved,40.7835,-73.9715
+CRM-2025-3052,2025-11-08,2025,November,14:45,Metropolis,East District,Vandalism,Property Crime,16,Female,Spray Paint,Solved,40.7275,-73.9945
+CRM-2025-3053,2025-11-14,2025,November,19:10,Gotham,South Suburb,Narcotics,Drug Offense,35,Male,None,Under Investigation,40.6785,-73.9435
+CRM-2025-3054,2025-11-20,2025,November,23:55,Star City,Central Park,Robbery,Violent Crime,47,Female,Firearm,Unsolved,40.7815,-73.9655
+CRM-2025-3055,2025-11-26,2025,November,11:30,Metropolis,Harbor View,Vehicle Theft,Property Crime,30,Male,None,Closed,40.7005,-74.0105
+CRM-2025-3056,2025-12-02,2025,December,17:00,Gotham,Northside,Identity Theft,Financial Crime,55,Female,None,Solved,40.7605,-73.9815
+CRM-2025-3057,2025-12-08,2025,December,22:40,Star City,Downtown,Assault,Violent Crime,26,Male,Blunt Object,Solved,40.7135,-74.0065
+CRM-2025-3058,2025-12-14,2025,December,10:15,Metropolis,West End,Cybercrime,Financial Crime,32,Female,None,Under Investigation,40.7838,-73.9728
+CRM-2025-3059,2025-12-20,2025,December,16:50,Gotham,East District,Domestic Violence,Violent Crime,41,Male,None,Unsolved,40.7288,-73.9938
+CRM-2025-3060,2025-12-26,2025,December,21:30,Star City,South Suburb,Shoplifting,Property Crime,21,Female,None,Closed,40.6782,-73.9442
+CRM-2023-1001,2023-01-15,2023,January,02:30,Metropolis,Downtown,Burglary,Property Crime,34,Male,Crowbar,Solved,40.7128,-74.0060
+CRM-2023-1002,2023-01-16,2023,January,14:15,Metropolis,Northside,Robbery,Violent Crime,29,Female,Knife,Under Investigation,40.7589,-73.9851
+CRM-2025-9999,,,,10:00,Gotham,Downtown,Assault,Violent Crime,,,Knife,Unsolved,40.7140,-74.0060
